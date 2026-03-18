@@ -67,3 +67,5 @@ console.log("Você está: ", vericacao(nota));
 
 
 
+
+
