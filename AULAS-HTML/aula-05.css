@@ -1,0 +1,15 @@
+/* Comentário em CSS */
+/*
+    Seletores css
+    Seletor de Classe ->
+    Seletor de Id -> #
+    Seletor de elementos -> Tag html
+    */
+body{
+    background-color:aliceblue; /* Cor de fundo */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px; /* Tamanho da Fonte */
+    margin: 0px; /* Espaçamento Externo ao Box */
+    padding: 0px;/* Espaçamento interno ao Box */
+    text-align: center;
+}
